@@ -1,0 +1,13 @@
+			header,footer	{background-color:#726C6C; position:absolute; }
+			body			{position:relative; }
+			.icon			{height:16px; width:16px; position:absolute;}
+			.logo			{height:64; width:64px; top:0px; left:0px;}
+			.text-left 		{ text-align: left;}
+			.text-right 	{text-align: right;}
+			.text-center 	{text-align: center;}
+			.loading		{height:150px; width:512px; position:absolute;}
+			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
+			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
+			a:focus 		{ font-weight:bold; color:red; text-decoration:underline; }
+			a:hover 		{ font-weight:bold; color:green; text-decoration:none; }
+			a:active		{font-weight:bold; color:lime; text-decoration:none; }
