@@ -5,6 +5,7 @@
 			.text-left 		{ text-align: left;}
 			.text-right 	{text-align: right;}
 			.text-center 	{text-align: center;}
+			.responsive 	{max-width: 200%;}
 			.loading		{ height:150px; width:512px; top:256px; position:absolute;}
 			a:link 			{ font-weight:bold; color:blue; text-decoration:none; }
 			a:visited 		{ font-weight:bold; color:silver; text-decoration:none; }
