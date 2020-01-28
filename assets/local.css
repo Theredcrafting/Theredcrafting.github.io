@@ -1,0 +1,191 @@
+  .lpos{
+      position:absolute;
+      top:10%;
+      left:5%;
+  }
+  .lsize{
+      width:200px;
+      height:130px;
+  }
+  .Banner{
+      width:80%;
+      height:75%;
+      float: center;
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #031942;
+    }
+    .logo_768{
+      width: 61,5px;
+      height: 41px;
+    }
+    .bpos{
+        left:0px;
+    }
+    .namelong{
+      font-size: 11pt;
+    }
+    li {
+      float: left;
+    }
+    *{
+      font-family: Arial, sans-serif;
+    }
+    .mgb{
+      margin-top: 15px;
+    }
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    .unionpos{
+      width:128px;
+      height:256px;
+    }
+    .floatc{ 
+      float:center;
+    }
+    .formpos{
+      left:600px;
+      top:360px;
+      position: absolute;
+    }
+    .mdslogo{
+        padding-top: 8px;
+        padding-left: 9px;
+    }
+    .logoimg{
+      widows: 50px;
+      height: 50px;
+    }
+    .center{
+      padding: 70px 0;
+      text-align: center;
+    }
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+      background-color: #062C5B;
+      font-weight: bold;
+      color: #b1bad7;
+    }
+  .desc{
+    text-align: center;
+  }
+  .des2{
+    background-color:#c9cfe9;
+  }
+  .active{
+    background-color: #031942;
+  }
+  .disable{
+    background-color:#1d1e1f;
+  }
+  #grad {
+    background-image: linear-gradient(#031942, rgba(0,0,0,1));
+  }
+  .applogo{
+    width:256px;
+    height: 128px;
+    margin-top:8px;
+  }
+  .video {
+    width: 100%;
+    height: auto;
+  }
+  .vidinweb{
+    position:relative;
+    left:75px;
+    top:30px;
+  }
+  .rw{
+    width:100%;
+    background-color:#eef0f1;
+  }
+  .mg{
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .imgboxcont{
+    top:30px;
+    left:20px;
+    width:640px;
+    height:360px;
+  }
+  .hading{
+    color: #031942;
+    text-transform: uppercase;
+    font-size: 36pt;
+    font-weight: 400000;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  *{
+    font-size: 14pt;
+  }
+  b{
+    font-style:up
+    percase;
+  }
+  #grad {
+    background-color: rgba(3,25,66,120 );
+  }
+.app{
+  background-color: rgb(234, 240, 235);
+  border-bottom: 5px;
+  border-top: 5px;
+  border-left: 5px;
+  border-right: 5px;
+  margin-top: 12px;
+}
+.up{
+  text-transform: uppercase;
+}
+  .btn{
+   
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    
+  }
+  .nomg{
+    margin-top: 2px;
+  }
+  .btnnav{
+    background-color: #212122;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .dis{
+    margin-top: 20px;
+  }
+  .txtmg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .usico{
+    left: 50px;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  .pjsize{
+    width: 240px;
+    height:auto;
+  }
